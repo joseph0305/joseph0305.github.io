@@ -1,13 +1,13 @@
 
-#title:  "블로그를 처음 시작하며"
+# title:  "블로그를 처음 시작하며"
 
-##excerpt: "블로그를 처음 시작해봅니다 - 신경식"
+## excerpt: "블로그를 처음 시작해봅니다 - 신경식"
 
 categories:
 ------------------
 > Blog
 
-###C programming 의 기본 문법을 알아보자
+### C programming 의 기본 문법을 알아보자
 * 출력
 ```
 printf("%d",3);
